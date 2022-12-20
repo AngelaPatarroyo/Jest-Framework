@@ -13,4 +13,4 @@ const fromYanToPound = function (yanValue) {
     return poundValue;
 }
 
-module.exports = { fromDollarToYen , fromEuroToDollar , fromYanToPound}
+export default { fromDollarToYen , fromEuroToDollar , fromYanToPound}
